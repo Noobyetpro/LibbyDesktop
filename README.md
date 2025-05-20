@@ -1,8 +1,48 @@
-# If you are looking for this, then you probably know what a "Libby" is (lol) and wat an "App" is
+# 📚 Libby Desktop App
 
+A lightweight desktop application that lets you access and manage your Libby eBooks and audiobooks in a convenient way—right from your computer.
 
-So...ummm... I built this app so that I can not only read books on my tablet, but also on my commputer. I think it will probably work well with the windows Kindle app since they are not directly related
+## 🚀 Features
 
+- Browse and open your Libby library  
+- Stream or download audiobooks  
+- Switch between dark and light mode  
+- Search and filter your borrowed content  
+- Works offline once titles are downloaded  
+- Cross-platform: Windows, macOS, and Linux
 
+## 📥 Installation
 
-Looking for a different version? You can actually compile it self XD, sorry i didnt compile it for your system (I dont have time because of school). DONT DOWNLOAD THE SOURCE CODE FROM THE RELEASE/CODE SECTION, i will provide it in the [compile.md](https://github.com/uptownzombi21/Libby-Electron-App/blob/main/compile.md)
+### 1. Download the Source Code
+Go to the [Releases](https://github.com/Noobyetpro/LibbyDesktop/releases) page and download the latest source code `.zip` file. Extract it anywhere on your computer.
+
+### 2. Install Node.js
+Make sure you have [Node.js](https://nodejs.org/) installed (version 16 or higher is recommended).
+
+### 3. Install Dependencies
+Open a terminal in the extracted folder and run:
+```bash
+npm install
+```
+
+### 4. Run the App in Development Mode
+```bash
+npm start
+```
+
+### 5. Build the App for Production
+```bash
+npm run build
+```
+
+## ❗ Disclaimer
+
+This project is not affiliated with or endorsed by OverDrive or Libby. It is an unofficial desktop client built for educational and personal use only.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🙌 Contributing
+
+Feel free to open issues or submit pull requests if you'd like to contribute.
