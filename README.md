@@ -31,7 +31,7 @@ npm start
 
 ### 5. Build the App for Production
 
-See the [Build Guide →](BUILD.md)
+See the [Build Guide →](build.md)
 
 ## ❗ Disclaimer
 
