@@ -7,8 +7,7 @@ A lightweight desktop application that lets you access and manage your Libby eBo
 - Browse and open your Libby library  
 - Stream or download audiobooks  
 - Switch between dark and light mode  
-- Search and filter your borrowed content  
-- Works offline once titles are downloaded  
+- Search and filter your borrowed content   
 - Cross-platform: Windows, macOS, and Linux
 
 ## 📥 Installation
