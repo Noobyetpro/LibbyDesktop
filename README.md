@@ -31,9 +31,8 @@ npm start
 ```
 
 ### 5. Build the App for Production
-```bash
-npm run build
-```
+
+See the [Build Guide →](BUILD.md)
 
 ## ❗ Disclaimer
 
@@ -46,3 +45,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🙌 Contributing
 
 Feel free to open issues or submit pull requests if you'd like to contribute.
+
